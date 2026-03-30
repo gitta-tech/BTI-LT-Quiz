@@ -1,0 +1,23 @@
+export const questions = [
+  {
+    question: "How do you see your role in creating wealth?",
+    answers: [
+      "I feel like life just happens, and financial outcomes feel out of my control.",
+      "I know my choices matter, but I still feel like I’m often reacting to circumstances.",
+      "I take responsibility for improving my financial life and look for ways to grow.",
+      "I know my thoughts, decisions, and actions are shaping my financial reality every day."
+    ]
+  },
+  // ...other questions
+];
+
+export const results = {
+  scarcity: {
+    vsl: "https://example.com/scarcity-vsl",
+    actionPlan: "Scarcity Action Plan Content",
+    letter: "Personalized letter for Scarcity Mindset"
+  },
+  opportunityBlindness: {
+    // VSL, action plan, and letter for this tier
+  }
+};

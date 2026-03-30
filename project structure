@@ -1,0 +1,23 @@
+wealth-alignment-quiz
+├── public
+│   └── index.html
+├── src
+│   ├── components
+│   │   ├── App.jsx
+│   │   ├── Quiz.jsx
+│   │   ├── Results.jsx
+│   │   ├── ThankYou.jsx
+│   │   ├── ScoreDashboard.jsx
+│   │   ├── VSL.jsx
+│   │   ├── PersonalizedLetter.jsx
+│   │   ├── ActionPlan.jsx
+│   │   ├── Testimonials.jsx
+│   │   └── SocialProof.jsx
+│   ├── data
+│   │   └── quizData.js
+│   ├── styles
+│   │   └── App.css
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── vite.config.js
+└── package.json
